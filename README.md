@@ -1,4 +1,4 @@
-# localiased_app
+# localised_app
 
 A new Flutter project.
 
